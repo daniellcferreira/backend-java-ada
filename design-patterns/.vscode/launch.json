@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TesteProdutoFactoryMethod",
+      "request": "launch",
+      "mainClass": "factorymethods.solucao.TesteProdutoFactoryMethod",
+      "projectName": "design-patterns_2cf2ae47"
+    },
+    {
+      "type": "java",
+      "name": "TesteProdutoFactoryMethod",
+      "request": "launch",
+      "mainClass": "factormethods.solucao.TesteProdutoFactoryMethod",
+      "projectName": "design-patterns_2cf2ae47"
+    },
+    {
+      "type": "java",
       "name": "TestePessoaBuilder",
       "request": "launch",
       "mainClass": "builder.solucao.TestePessoaBuilder",
