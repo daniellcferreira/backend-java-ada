@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TesteBotaoPrototype",
+      "request": "launch",
+      "mainClass": "prototype.solucao.TesteBotaoPrototype",
+      "projectName": "design-patterns_2cf2ae47"
+    },
+    {
+      "type": "java",
       "name": "TesteAgendaSingleton",
       "request": "launch",
       "mainClass": "singleton.solucao.TesteAgendaSingleton",
