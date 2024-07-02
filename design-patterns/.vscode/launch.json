@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestePessoaProxy",
+      "request": "launch",
+      "mainClass": "proxy.solucao.TestePessoaProxy",
+      "projectName": "design-patterns_2cf2ae47"
+    },
+    {
+      "type": "java",
+      "name": "PessoaTest",
+      "request": "launch",
+      "mainClass": "proxy.problema.PessoaTest",
+      "projectName": "design-patterns_2cf2ae47"
+    },
+    {
+      "type": "java",
       "name": "TesteBotaoPrototype",
       "request": "launch",
       "mainClass": "prototype.solucao.TesteBotaoPrototype",
