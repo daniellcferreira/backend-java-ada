@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TesteAjusteSalarioStrategy",
+      "request": "launch",
+      "mainClass": "strategy.solucao.TesteAjusteSalarioStrategy",
+      "projectName": "design-patterns_2cf2ae47"
+    },
+    {
+      "type": "java",
+      "name": "TesteAjusteSalario",
+      "request": "launch",
+      "mainClass": "strategy.problema.TesteAjusteSalario",
+      "projectName": "design-patterns_2cf2ae47"
+    },
+    {
+      "type": "java",
       "name": "TesteOperacoesContaCorrenteAdapter",
       "request": "launch",
       "mainClass": "adapter.solucao.TesteOperacoesContaCorrenteAdapter",
