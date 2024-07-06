@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TesteReparVeiculosTemplate",
+      "request": "launch",
+      "mainClass": "templatemethods.solucao.TesteReparVeiculosTemplate",
+      "projectName": "design-patterns_2cf2ae47"
+    },
+    {
+      "type": "java",
+      "name": "TesteReparVeiculos",
+      "request": "launch",
+      "mainClass": "templatemethods.problema.TesteReparVeiculos",
+      "projectName": "design-patterns_2cf2ae47"
+    },
+    {
+      "type": "java",
       "name": "TesteVendaCarroChainOfResponsibility",
       "request": "launch",
       "mainClass": "chainofresoinsibility.solucao.TesteVendaCarroChainOfResponsibility",
